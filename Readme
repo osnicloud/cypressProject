@@ -1,0 +1,5 @@
+Instalação
+npm install
+
+Execução
+npx cypress open
